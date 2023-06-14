@@ -1,0 +1,13 @@
+1. Phân tích  --> OK
+    a. Header
+    b. Slider
+    c. Content
+        a. About
+        b. Tour 
+        c. Contact
+        d. Image
+        e. Footer
+    d. Footer
+2. Dựng base (xây mảng)
+3. Xây dựng từng phần theo phân tích
+4. Hoàn thiện
